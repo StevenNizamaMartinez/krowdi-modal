@@ -7,7 +7,7 @@ El proyecto dejado como reto para la clase
 
 ## Model Abstraction
 
-<img src="./krowdi.png">
+<img src="./Krowdi.png">
 
 ## Getting Started
 
