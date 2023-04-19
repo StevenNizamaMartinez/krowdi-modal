@@ -11,7 +11,7 @@ Instrucciones básicas para usar el proyecto
 Clona el repositorio del proyecto en tu máquina local. Puedes hacerlo usando el siguiente comando en tu terminal:
 
 ```
-git clone 
+git clone https://github.com/StevenNizamaMartinez/krowdi-modal
 ```
 
 ### Installing
