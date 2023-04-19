@@ -2,7 +2,12 @@
 
 El proyecto dejado como reto para la clase
 
+## Preview
 <img src="./Animation.gif">
+
+## Model Abstraction
+
+<img src="./krowdi.png">
 
 ## Getting Started
 
