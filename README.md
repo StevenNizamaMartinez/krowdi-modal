@@ -9,6 +9,10 @@ El proyecto dejado como reto para la clase
 
 <img src="./Krowdi.png">
 
+## Proyecto en vivo
+
+https://stevennizamamartinez.github.io/krowdi-modal/
+
 ## Getting Started
 
 Instrucciones básicas para usar el proyecto
