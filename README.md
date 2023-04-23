@@ -2,16 +2,16 @@
 
 El proyecto dejado como reto para la clase
 
+## Proyecto en vivo
+
+https://stevennizamamartinez.github.io/krowdi-modal/
+
 ## Preview
 <img src="./Animation.gif">
 
 ## Model Abstraction
 
 <img src="./Krowdi.png">
-
-## Proyecto en vivo
-
-https://stevennizamamartinez.github.io/krowdi-modal/
 
 ## Getting Started
 
